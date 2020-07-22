@@ -1,0 +1,16 @@
+C:\Programming\Visual Studio workspace\CS\Handler\bin\Debug\Handler.exe.config
+C:\Programming\Visual Studio workspace\CS\Handler\bin\Debug\Handler.exe
+C:\Programming\Visual Studio workspace\CS\Handler\bin\Debug\Handler.pdb
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\Handler.csprojAssemblyReference.cache
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\MainWindow.g.cs
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\App.g.cs
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\Handler_MarkupCompile.cache
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\MainWindow.baml
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\Handler.g.resources
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\Handler.Properties.Resources.resources
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\Handler.csproj.GenerateResource.cache
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\Handler.exe
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\Handler.pdb
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\Handler_MarkupCompile.lref
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\App.baml
+C:\Programming\Visual Studio workspace\CS\Handler\obj\Debug\ModernButton.baml
