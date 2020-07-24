@@ -73,7 +73,6 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Phone.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -100,16 +99,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="sprites\playSprite2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="sprites\pauseSprite2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="sprites\stopSprite2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="sprites\Timer.png" />
+    <Resource Include="sprites\Clock.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
